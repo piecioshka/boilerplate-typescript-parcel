@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-typescript-parcel",
+    "name": "boilerplate-typescript-parcel",
     "description": "Use Parcel to run project with TypeScript files",
     "version": "1.0.0",
     "license": "MIT",
@@ -24,6 +24,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/piecioshka/test-typescript-parcel"
+        "url": "https://github.com/piecioshka/boilerplate-typescript-parcel"
     }
 }

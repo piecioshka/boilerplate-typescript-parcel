@@ -1,10 +1,10 @@
-# test-typescript-parcel
+# boilerplate-typescript-parcel
 
 :ledger: Use Parcel to run project with TypeScript files.
 
 ## Preview 🎉
 
-<https://piecioshka.github.io/test-typescript-parcel/>
+<https://piecioshka.github.io/boilerplate-typescript-parcel/>
 
 ## Development
 
